@@ -2,7 +2,7 @@
 
 using System;
 
-namespace RefactoringGuru.DesignPatterns.Proxy.Conceptual
+namespace Ejemplo.Pattern.Proxy.Conceptual
 {
    
     public interface ISubject
